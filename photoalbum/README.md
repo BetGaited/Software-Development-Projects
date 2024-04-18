@@ -1,7 +1,5 @@
-## Introdução
+## Photo Album
 
-Seja bem vindo!
-Se você curtiu a extensão, não esqueça de deixar uma avaliação!
+Changes the pictures every few seconds, but button can skip through.
 
-Siga o canal no YouTube:
-- Academia dos Devs
+Never went back and fixed the ImageView error because I had Harvard + was lazy :D
