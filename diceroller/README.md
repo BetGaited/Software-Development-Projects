@@ -1,7 +1,3 @@
-## Introdução
+## GUI DiceRoller. 
 
-Seja bem vindo!
-Se você curtiu a extensão, não esqueça de deixar uma avaliação!
-
-Siga o canal no YouTube:
-- Academia dos Devs
+Press the button to roll the dice; the label and the image will change when you roll it.
